@@ -1,0 +1,16 @@
+{
+  "Group": "GilloDaby",
+  "Name": "Better Portals",
+  "Version": "1.0.0",
+  "Description": "Cross-world portal links for Teleporter blocks.",
+  "Authors": [
+    { "Name": "GilloDaby" }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.gillodaby.betterportals.BetterPortalsPlugin",
+  "IncludesAssetPack": false
+}
