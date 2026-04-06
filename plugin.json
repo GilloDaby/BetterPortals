@@ -1,8 +1,8 @@
 {
-  "id": "betterportals",
-  "name": "Better Portals",
-  "version": "1.0.0",
-  "author": "GilloDaby",
-  "description": "Cross-world portal links for Teleporter blocks.",
-  "main": "com.gillodaby.betterportals.BetterPortalsPlugin"
+    "id":  "betterportals",
+    "name":  "Better Portals",
+    "version":  "1.0.3",
+    "author":  "GilloDaby",
+    "description":  "Cross-world portal links for Teleporter blocks.",
+    "main":  "com.gillodaby.betterportals.BetterPortalsPlugin"
 }
